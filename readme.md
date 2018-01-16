@@ -10,5 +10,5 @@ For It you just apply a normal Gaussian kernel and subtract the two frames.
 I_x(q_i) = I_x
 so on and so on
 
-Then use this equation:
-![alt text](https://github.com/sanny1/Opticflow/blob/master/equation.gif) 
+Then use this equation to calculate V_x:__
+![alt text](https://github.com/sanny1/Opticflow/blob/master/equation.gif)
