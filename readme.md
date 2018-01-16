@@ -1,4 +1,4 @@
-#Optic flow Lukas and Kanade's Optical flow
+# Optic flow Lukas and Kanade's Optical flow
 
 This is not my work, I simply translated the code into Python.
 
@@ -11,4 +11,4 @@ I_x(q_i) = I_x
 so on and so on
 
 Then use this equation:
-![] 
+![alt text](https://github.com/sanny1/Opticflow/blob/master/equation.gif) 
