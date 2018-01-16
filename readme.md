@@ -8,7 +8,9 @@ Applies Gaussian derivative mask in x axis and y axis to the frame 1 and 2. This
 
 For It you just apply a normal Gaussian kernel and subtract the two frames.
 I_x(q_i) = I_x
+
 so on and so on
 
-Then use this equation to calculate V_x:__
+Then use this equation to calculate V_x:
+
 ![alt text](https://github.com/sanny1/Opticflow/blob/master/equation.gif)
