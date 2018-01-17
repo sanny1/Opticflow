@@ -4,13 +4,13 @@ This is not my work, I simply translated the code into Python.
 
 It takes two frames moments from each other.
 
-Applies Gaussian derivative mask in x axis and y axis to the frame 1 and 2. This attains Ix and Iy.  
+Applies Gaussian derivative mask in x axis and y axis to the frame 1 and 2. This attains I<sub>x</sub> and I<sub>y</sub>.  
 
 For It you just apply a normal Gaussian kernel and subtract the two frames.
-I<sub>x</sub>(q_i) = I_x
+I<sub>x</sub>(q<sub>i</sub>) = I<sub>x</sub>
 
 so on and so on
 
-Then use this equation to calculate V_x:
+Then use this equation to calculate V<sub>x</sub>:
 
 ![alt text](https://github.com/sanny1/Opticflow/blob/master/equation.gif)
