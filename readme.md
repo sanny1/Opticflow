@@ -7,6 +7,7 @@ It takes two frame and calculates the velocity vector in x and y direction.
 Applies Gaussian derivative mask in x axis and y axis to the frame 1 and 2. This attains I<sub>x</sub> and I<sub>y</sub>.  
 
 For I<sub>t</sub> you just apply a normal Gaussian kernel and subtract the two frames.
+
 I<sub>x</sub>(q<sub>i</sub>) = I<sub>x</sub>
 
 so on and so on
