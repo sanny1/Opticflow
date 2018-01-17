@@ -2,7 +2,7 @@
 
 This is not my work, I simply translated the code into Python.
 
-It takes two frames moments from each other.
+It takes two frame and calculates the velocity vector in x and y direction.
 
 Applies Gaussian derivative mask in x axis and y axis to the frame 1 and 2. This attains I<sub>x</sub> and I<sub>y</sub>.  
 
