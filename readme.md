@@ -14,3 +14,7 @@ so on and so on
 Then use this equation to calculate V<sub>x</sub> and V<sub>y</sub>:
 
 ![alt text](https://github.com/sanny1/Opticflow/blob/master/equation.gif)
+
+And here is the Image:
+
+![alt text](https://github.com/sanny1/Opticflow/blob/master/Opticflow_2_frames.png)
