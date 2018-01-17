@@ -11,6 +11,6 @@ I<sub>x</sub>(q<sub>i</sub>) = I<sub>x</sub>
 
 so on and so on
 
-Then use this equation to calculate V<sub>x</sub>:
+Then use this equation to calculate V<sub>x</sub> and V<sub>y</sub>:
 
 ![alt text](https://github.com/sanny1/Opticflow/blob/master/equation.gif)
